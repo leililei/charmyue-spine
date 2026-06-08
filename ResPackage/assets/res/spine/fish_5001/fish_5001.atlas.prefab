@@ -1,0 +1,11 @@
+fish_5001.png
+size:128,64
+filter:Linear,Linear
+pma:true
+5001
+bounds:2,2,124,53
+offsets:1,9,128,72
+50011
+bounds:10,2,22,19
+offsets:80,23,128,72
+rotate:180

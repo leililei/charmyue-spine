@@ -1,0 +1,15 @@
+skill_shayu.png
+size:512,256
+filter:Linear,Linear
+pma:true
+shayu_bizui
+bounds:327,19,139,106
+rotate:90
+shayu_wei
+bounds:2,2,210,156
+shayu_zhangzui
+bounds:214,19,139,111
+rotate:90
+shayu_zhangzui2
+bounds:435,92,66,48
+rotate:90

@@ -1,0 +1,10 @@
+h159_naozhong.png
+size:128,128
+filter:Linear,Linear
+pma:true
+naozhong
+bounds:2,10,86,94
+naozhong_1
+bounds:2,2,6,28
+offsets:40,35,86,94
+rotate:90

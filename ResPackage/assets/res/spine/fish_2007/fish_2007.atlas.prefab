@@ -1,0 +1,11 @@
+fish_2007.png
+size:128,128
+filter:Linear,Linear
+pma:true
+yu2007
+bounds:2,3,100,69
+offsets:20,27,138,126
+yu2007_1
+bounds:8,2,24,27
+offsets:59,38,138,126
+rotate:270

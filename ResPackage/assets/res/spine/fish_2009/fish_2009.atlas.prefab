@@ -1,0 +1,11 @@
+fish_2009.png
+size:128,64
+filter:Linear,Linear
+pma:true
+2009_1_new
+bounds:2,2,17,15
+offsets:52,20,110,94
+rotate:180
+2009_new
+bounds:2,5,63,39
+offsets:35,24,110,94

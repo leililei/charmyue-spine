@@ -1,0 +1,9 @@
+ui_kanjiaheiban.png
+size:512,256
+filter:Linear,Linear
+pma:true
+heiban
+bounds:2,2,282,137
+heiban2
+bounds:286,8,8,131
+offsets:0,5,8,137

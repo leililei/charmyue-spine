@@ -1,0 +1,10 @@
+fish_4004.png
+size:256,64
+filter:Linear,Linear
+pma:true
+4004
+bounds:2,2,184,40
+offsets:8,9,194,62
+4004_1
+bounds:141,4,36,18
+offsets:114,10,194,62

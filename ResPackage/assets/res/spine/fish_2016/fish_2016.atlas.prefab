@@ -1,0 +1,13 @@
+fish_2016.png
+size:256,128
+filter:Linear,Linear
+pma:true
+2016_1_new
+bounds:2,22,34,21
+offsets:169,50,276,152
+2016_2_new
+bounds:26,5,50,21
+offsets:145,25,276,152
+2016_new
+bounds:2,2,208,106
+offsets:45,31,276,152

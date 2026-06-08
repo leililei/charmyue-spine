@@ -1,0 +1,12 @@
+Farm_gouliang01.png
+size:128,64
+filter:Linear,Linear
+pma:true
+D_1
+bounds:80,8,44,28
+rotate:90
+D_2
+bounds:50,8,44,28
+rotate:90
+zz_3
+bounds:2,2,46,50

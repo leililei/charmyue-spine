@@ -1,0 +1,11 @@
+ui_hero_btn_xingtai_2_zhcn.png
+size:128,64
+filter:Linear,Linear
+pma:true
+di
+bounds:2,2,60,60
+offsets:15,15,90,90
+tex_ui_xingtaitubiaodonghua_1_hudie
+bounds:64,12,50,37
+offsets:7,14,64,64
+rotate:90

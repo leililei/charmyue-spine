@@ -1,0 +1,11 @@
+fish_2021.png
+size:256,128
+filter:Linear,Linear
+pma:true
+2021_1_new
+bounds:160,3,27,29
+offsets:140,55,256,148
+rotate:180
+2021_new
+bounds:2,2,191,81
+offsets:51,41,256,148

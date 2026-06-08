@@ -1,0 +1,10 @@
+fish_1005.png
+size:256,128
+filter:Linear,Linear
+pma:true
+yu_005
+bounds:2,2,127,73
+offsets:1,7,128,88
+yu_005_1
+bounds:2,15,28,23
+offsets:41,15,128,88

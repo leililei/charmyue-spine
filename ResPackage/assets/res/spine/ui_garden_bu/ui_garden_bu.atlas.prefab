@@ -1,0 +1,10 @@
+ui_garden_bu.png
+size:256,256
+filter:Linear,Linear
+pma:true
+bu
+bounds:2,89,141,113
+offsets:1,11,142,142
+shitou
+bounds:2,2,104,85
+offsets:26,0,130,100

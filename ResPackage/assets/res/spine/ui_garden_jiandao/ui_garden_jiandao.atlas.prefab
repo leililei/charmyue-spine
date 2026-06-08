@@ -1,0 +1,10 @@
+ui_garden_jiandao.png
+size:256,256
+filter:Linear,Linear
+pma:true
+jiandao
+bounds:2,89,136,108
+offsets:0,17,142,142
+shitou
+bounds:2,2,104,85
+offsets:26,0,130,100

@@ -1,0 +1,15 @@
+fish_3007.png
+size:128,128
+filter:Linear,Linear
+pma:true
+3007_1_new
+bounds:7,2,23,26
+offsets:67,24,162,98
+rotate:270
+3007_2_new
+bounds:90,4,23,32
+offsets:96,21,162,98
+rotate:270
+3007_new
+bounds:2,16,119,62
+offsets:31,14,162,98

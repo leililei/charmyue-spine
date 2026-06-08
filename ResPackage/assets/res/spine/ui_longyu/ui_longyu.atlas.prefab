@@ -1,0 +1,16 @@
+ui_longyu.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+ka_2
+bounds:491,305,179,200
+offsets:6,0,197,200
+ka_3
+bounds:310,103,179,200
+offsets:6,0,197,200
+ka_4
+bounds:310,305,179,200
+offsets:6,0,197,200
+longhun
+bounds:2,2,306,503
+offsets:0,0,306,511

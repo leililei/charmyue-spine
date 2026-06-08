@@ -1,0 +1,15 @@
+fish_5005.png
+size:128,64
+filter:Linear,Linear
+pma:true
+5005
+bounds:76,4,41,33
+offsets:30,20,104,76
+rotate:180
+50051
+bounds:2,20,82,34
+offsets:10,29,104,76
+50052
+bounds:21,2,48,26
+offsets:28,6,104,76
+rotate:180

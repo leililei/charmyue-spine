@@ -1,0 +1,13 @@
+fish_1008.png
+size:512,256
+filter:Linear,Linear
+pma:true
+yu_1
+bounds:2,2,274,149
+offsets:0,3,274,152
+yu_2
+bounds:2,15,42,44
+offsets:76,25,274,152
+yu_3
+bounds:208,8,25,41
+offsets:72,2,274,152

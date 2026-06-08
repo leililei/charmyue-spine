@@ -1,0 +1,10 @@
+fish_3006.png
+size:256,128
+filter:Linear,Linear
+pma:true
+3006
+bounds:2,2,134,80
+offsets:8,20,150,118
+3006_1
+bounds:2,11,15,14
+offsets:92,36,150,118

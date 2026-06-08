@@ -1,0 +1,15 @@
+fish_1011.png
+size:128,128
+filter:Linear,Linear
+pma:true
+x1
+bounds:2,21,62,72
+offsets:16,3,92,76
+x2
+bounds:53,16,77,34
+offsets:8,18,92,76
+rotate:90
+x3
+bounds:2,2,63,20
+offsets:15,3,92,76
+rotate:180

@@ -1,0 +1,10 @@
+ui_maoxianpingji_qizhi.png
+size:256,128
+filter:Linear,Linear
+pma:true
+qizhi
+bounds:2,2,74,129
+rotate:90
+qizhi2
+bounds:133,2,74,48
+rotate:90

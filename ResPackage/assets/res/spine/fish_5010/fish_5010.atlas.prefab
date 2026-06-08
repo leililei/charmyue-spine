@@ -1,0 +1,14 @@
+fish_5010.png
+size:256,64
+filter:Linear,Linear
+pma:true
+5010
+bounds:110,6,53,44
+offsets:38,23,128,90
+50101
+bounds:2,3,109,47
+offsets:10,35,128,90
+50102
+bounds:154,2,60,30
+offsets:36,7,128,90
+rotate:180

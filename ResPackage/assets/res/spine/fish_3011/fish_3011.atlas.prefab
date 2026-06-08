@@ -1,0 +1,11 @@
+fish_3011.png
+size:256,128
+filter:Linear,Linear
+pma:true
+3011
+bounds:2,2,137,117
+offsets:19,16,166,144
+3011_1
+bounds:104,5,52,37
+offsets:56,25,166,144
+rotate:270
