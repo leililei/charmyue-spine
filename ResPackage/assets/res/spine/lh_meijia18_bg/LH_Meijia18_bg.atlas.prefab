@@ -1,0 +1,14 @@
+LH_Meijia18_bg.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+background_3
+bounds:2804,185,1332,406
+rotate:90
+background_3_1
+bounds:3176,401,1116,406
+offsets:216,0,1332,406
+rotate:270
+background_4
+bounds:2,2,1515,2800
+rotate:90

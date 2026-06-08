@@ -1,0 +1,10 @@
+LH_Buding14_bg02.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+BG_1
+bounds:2,2,1880,2800
+rotate:90
+BG_2
+bounds:2804,2,1880,1011
+rotate:90
