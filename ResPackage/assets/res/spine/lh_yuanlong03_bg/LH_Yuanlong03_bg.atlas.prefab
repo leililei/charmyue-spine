@@ -1,0 +1,14 @@
+LH_Yuanlong03_bg.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+bg
+bounds:2,2,1581,2627
+rotate:90
+houguagan
+bounds:3360,289,1264,41
+rotate:90
+houlianzi
+bounds:2631,281,1302,727
+offsets:16,0,1318,727
+rotate:90

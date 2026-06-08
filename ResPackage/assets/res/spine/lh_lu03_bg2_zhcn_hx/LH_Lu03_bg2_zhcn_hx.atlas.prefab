@@ -1,0 +1,12 @@
+LH_Lu03_bg2_zhcn_hx.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+bj_01
+bounds:945,2,649,898
+rotate:90
+bj_02
+bounds:945,653,1298,543
+rotate:90
+bj_03
+bounds:2,550,941,1401

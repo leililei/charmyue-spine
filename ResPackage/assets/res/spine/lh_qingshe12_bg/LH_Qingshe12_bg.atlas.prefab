@@ -1,0 +1,11 @@
+LH_Qingshe12_bg.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+BJ_chuanglian
+bounds:945,2,447,595
+rotate:90
+BJ_guang
+bounds:945,451,900,970
+BJ_qiang
+bounds:2,20,941,1401

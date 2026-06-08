@@ -1,0 +1,11 @@
+LH_Dujiaoshou03_bg_1.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+Bg_0
+bounds:2,2,1880,2800
+Bg_1
+bounds:1884,2,1720,1312
+rotate:90
+Bg_6
+bounds:1884,1724,853,535

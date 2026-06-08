@@ -1,0 +1,11 @@
+LH_Jiuweihu03_bg.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+background_1
+bounds:2804,1388,108,180
+background_2
+bounds:2804,1570,236,312
+background_3
+bounds:2,2,1880,2800
+rotate:90

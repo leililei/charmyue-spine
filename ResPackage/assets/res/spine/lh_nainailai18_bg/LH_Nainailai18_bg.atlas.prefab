@@ -1,0 +1,14 @@
+LH_Nainailai18_bg.png
+size:4096,2048
+filter:Linear,Linear
+pma:true
+background_2
+bounds:2743,766,755,258
+rotate:90
+background_2a
+bounds:2743,539,82,277
+offsets:1,0,83,277
+background_3
+bounds:2,2,1519,2740
+offsets:311,0,1830,3468
+rotate:90

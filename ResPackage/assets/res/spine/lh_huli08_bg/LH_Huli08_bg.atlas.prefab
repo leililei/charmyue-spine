@@ -1,0 +1,11 @@
+LH_Huli08_bg.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+bg
+bounds:2,2,1069,1913
+guang
+bounds:1073,696,697,1219
+renwuguang
+bounds:1073,45,649,918
+rotate:90

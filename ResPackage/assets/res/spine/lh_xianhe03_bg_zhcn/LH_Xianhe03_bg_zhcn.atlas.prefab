@@ -1,0 +1,13 @@
+LH_Xianhe03_bg_zhcn.png
+size:4096,1024
+filter:Linear,Linear
+pma:true
+background_1880_2800
+bounds:2,2,941,1401
+rotate:90
+background_4
+bounds:1405,192,200,90
+lighting_1
+bounds:2690,443,441,500
+lighting_2
+bounds:1405,284,1283,659

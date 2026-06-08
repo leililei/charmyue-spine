@@ -1,0 +1,11 @@
+LH_Jingling11_bg_zhcn.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+bg
+bounds:2,2,1215,1961
+bg_bao
+bounds:1219,1290,673,306
+rotate:90
+bg_xie
+bounds:1219,1064,239,224
